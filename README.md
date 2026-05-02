@@ -157,5 +157,20 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="zero-peak--zeroomega"></div>
 
+### zero-peak--ZeroOmega
+
+🔗 [source](https://github.com/zero-peak/ZeroOmega) – [<code><small>v3.4.5</small></code>](https://github.com/zero-peak/ZeroOmega/releases/tag/v3.4.5)
+
+| File | Size | Download |
+|------|------|----------|
+| `chromium-release.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ZareBaghbidi/LatestReleaseMirror/main/releases/zero-peak/ZeroOmega/chromium-release.zip) |
+| `chromium-release.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/ZareBaghbidi/LatestReleaseMirror/main/releases/zero-peak/ZeroOmega/chromium-release.zip.sha256) |
+| `firefox-release.zip` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ZareBaghbidi/LatestReleaseMirror/main/releases/zero-peak/ZeroOmega/firefox-release.zip) |
+| `firefox-release.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/ZareBaghbidi/LatestReleaseMirror/main/releases/zero-peak/ZeroOmega/firefox-release.zip.sha256) |
+| `zeroomega-3.4.5.crx` | 1.5 MB | [⬇️ Download](https://raw.githubusercontent.com/ZareBaghbidi/LatestReleaseMirror/main/releases/zero-peak/ZeroOmega/zeroomega-3.4.5.crx) |
+| `zeroomega-3.4.5.crx.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/ZareBaghbidi/LatestReleaseMirror/main/releases/zero-peak/ZeroOmega/zeroomega-3.4.5.crx.sha256) |
+| `zeroomega-3.4.5.xpi` | 1.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ZareBaghbidi/LatestReleaseMirror/main/releases/zero-peak/ZeroOmega/zeroomega-3.4.5.xpi) |
+| `zeroomega-3.4.5.xpi.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/ZareBaghbidi/LatestReleaseMirror/main/releases/zero-peak/ZeroOmega/zeroomega-3.4.5.xpi.sha256) |
 <!-- RELEASES_END -->
