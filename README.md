@@ -173,6 +173,18 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="coova--coova-chilli"></div>
+
+### coova--coova-chilli
+
+🔗 [source](https://github.com/coova/coova-chilli) – [<code><small>1.9</small></code>](https://github.com/coova/coova-chilli/releases/tag/1.9)
+
+| File | Size | Download |
+|------|------|----------|
+| `coova-chilli-1.9.tar.bz2` | 1.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ZareBaghbidi/LatestReleaseMirror/main/releases/coova/coova-chilli/coova-chilli-1.9.tar.bz2) |
+
+---
+
 <div id="zero-peak--zeroomega"></div>
 
 ### zero-peak--ZeroOmega
